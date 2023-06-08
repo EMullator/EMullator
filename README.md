@@ -19,7 +19,7 @@ Bubble Level App- это инструмент, предназначенный д
 * Coroutines and Flow
 * Navigation Components
 * View Binding
-* Git and 
+* Git
 * Retrofit
 * Okhttp
 * Room
